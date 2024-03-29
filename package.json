@@ -1,6 +1,6 @@
 {
   "name": "zknowa-oss",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "From simple task of Oolong testing, created and improved to the finest perfection of data rolling. Calculating simple median. ",
   "main": "average.js",
   "scripts": {
