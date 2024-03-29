@@ -22,7 +22,7 @@
     "dotenv": "^10.0.0",
     "socket.io": "^4.3.2",
     "joi": "^17.4.0",    
-    "rafael-greet": "^1.0.2"
+    "rafael-greet": "^1.0.3"
   },
   "devDependencies": {
     "eslint": "^8.2.0",
