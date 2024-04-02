@@ -1,6 +1,6 @@
 {
   "name": "zknowa-oss",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "From simple task of Oolong testing, created and improved to the finest perfection of data rolling. Calculating simple median. ",
   "main": "average.js",
   "scripts": {
@@ -34,10 +34,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/stoutenwirkkala853/stoutenw.standard.git"
+    "url": "https://github.com/zknowa/zknowa-oss.git"
   },
-  "homepage": "https://github.com/stoutenwirkkala853/stoutenw.standard.git",
-  "issues": "https://github.com/stoutenwirkkala853/stoutenw.standard/issues",
+  "homepage": "https://github.com/zknowa/zknowa-oss.git",
+  "issues": "https://github.com/zknowa/zknowa-oss/issues",
   "keywords": [
     "total",
     "calculator",
